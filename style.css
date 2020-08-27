@@ -1,0 +1,64 @@
+body{
+    background-color:rgb(172, 158, 158);
+}
+h1{
+    font-size: 50px;
+    background-color: rgb(151, 124, 177);
+    border:solid;
+    border-width: 5px;
+    align-self: center;
+    margin: auto;
+    max-width: 425px;
+}
+h2{
+    font-size: small;
+    background-color: rosybrown;
+    margin-top: -50px;
+    margin-right: 800px;
+    border: thin;
+    border-width: 5px;
+    align-self:center ;    
+    max-width: 100px;
+}
+h4{
+    font-size: small;
+    background-color: rosybrown;
+    margin-top: -25px;
+    margin-left: 125px;
+    border: thin;
+    border-width: 5px;
+    align-self:center ;    
+    max-width: 85px;
+}
+h5{
+    font-size: small;
+    background-color: rosybrown;
+    margin-top: -32px;
+    margin-left: 237px;
+    border: thin;
+    border-width: 5px;
+    align-self:center ;    
+    max-width: 50px;
+}
+h3{
+    font-size: larger;
+    margin-top: 60px;
+    background-color: darkcyan;
+    border: lightsalmon;
+    border-style: initial;
+    border-width: thick;
+    max-width: 750px;
+}
+h6{
+    font-size: larger;
+    background-color: darkgreen;
+    margin-top: -100px;
+    margin-left: 800px;
+    border: thin;
+    border-width: 5px;
+    align-self:center ;    
+    max-width: 700px;
+}
+.item{
+    margin-top: 50px;
+}
